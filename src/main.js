@@ -11,6 +11,7 @@ import App from "./App.vue";
 
 // 전역 SCSS 불러오기
 import "@assets/css/style.scss";
+import "bootswatch/dist/flatly/bootstrap.min.css";
 
 // Router 사용
 import router from "@router";
